@@ -1,0 +1,24 @@
+.courseCard{
+    border: 3px;
+    border-style: solid;
+    border-color: brown;
+    height: 20%;
+    width: 90vw;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+}
+.div1{
+    display: flex;
+    flex-direction: column;
+    
+}
+.desc{
+    flex-shrink: 60px;
+    flex-wrap: wrap;
+}
+.div2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
